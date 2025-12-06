@@ -1,5 +1,5 @@
 - 🔭 I’m currently working as a student research intern for Boston Children's Hospital (FNNDSC)
-- 🌱 I’m currently learning about data processing
+- 🌱 I’m currently learning about data processing and medical imaging
 - 💬 Ask me about anything!
 - 📫 Reach me via linkedin
 - 😄 Pronouns: she / her
