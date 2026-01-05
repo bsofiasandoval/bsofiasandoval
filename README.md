@@ -1,5 +1,4 @@
-- 🔭 I’m currently working as a student research intern for Harvard Medical School/Boston Children's Hospital (FNNDSC)
-- 🌱 I’m currently learning about data processing and medical imaging
-- 💬 Ask me about anything!
+- 🔭 I’m currently a computer science student at Tec de Monterrey
+- 💬 Ask me anything!
 - 📫 Reach me via linkedin
 - 😄 Pronouns: she / her
