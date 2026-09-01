@@ -1,4 +1,3 @@
-- 🔭 I’m currently a computer science student at Tec de Monterrey
 - 💬 Ask me anything!
 - 📫 Reach me via linkedin
 - 😄 Pronouns: she / her
